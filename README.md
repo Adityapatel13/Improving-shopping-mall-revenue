@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Aditya vanaparthi!
 
 🎓 I'm a Computer Science student with a passion for AI, machine learning, and full-stack development.  
 💡 I love exploring how data and smart algorithms can solve real-world problems.
